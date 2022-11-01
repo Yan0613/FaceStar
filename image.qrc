@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Blood Pressure.png</file>
+        <file>image/Blood Sugar.png</file>
+        <file>image/Frame.png</file>
+        <file>image/Heart Rate.png</file>
+        <file>image/Upcoming.png</file>
+        <file>image/BMI (1).png</file>
+        <file>image/setting.png</file>
+        <file>image/add.png</file>
+        <file>image/delete.png</file>
+        <file>image/view.png</file>
+        <file>image/menu.png</file>
+        <file>image/wzy.jpg</file>
+        <file>image/camera_icon.png</file>
+        <file>image/close_camera.png</file>
+    </qresource>
+</RCC>
